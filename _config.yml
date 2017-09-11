@@ -1,10 +1,10 @@
 # Harmony Jekyll theme general configurations
 
 # Base URL
-baseurl: 
+baseurl: https://elkinaguas.com
 
 # Site live URL
-url: elkinaguas.com
+url: https://elkinaguas.com
 
 # Localhost
 # url: http://127.0.0.1:4000

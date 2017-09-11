@@ -9,4 +9,4 @@ categories:
 
 This site is under construction, come back soon... or not so soon, to see it finished. Meanwhile you can visit my [Twitter][twitter] for more information.
 
-[jekyll]:    https://twitter.com/elkinaguas
+[twitter]:    https://twitter.com/elkinaguas

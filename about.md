@@ -15,5 +15,5 @@ where my work is focused on computer networks and the Internet.
 Find me on [Twitter][Twitter] / [Github][github] or just say `Hello` at 
 [elkinaguas@gmail.com](elkinaguas@gmail.com).
 
-[github]: https://github.com/gayanvirajith
-[twitter]: https://twitter.com/gayanvirajith
+[github]: https://github.com/elkinaguas
+[twitter]: https://twitter.com/elkinaguas

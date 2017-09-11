@@ -7,8 +7,8 @@ permalink: /about/
 Hi, I am Elkin Aguas, an Electronic Engineer based in France.
 I Graduated from the District University of Bogota, in Colombia.
 
-Right now I am doing a Master Degree in IMT Atlantique, focusing my work
-more in computer networks and the Internet.
+Right now I am doing a Master Degree in IMT Atlantique, where my work
+is focused on computer networks and the Internet.
 
 ### Contact me
 

@@ -6,6 +6,7 @@ description: This site is under construction.
 categories:
 - blog
 ---
+<head><link rel='shortcut icon' type='image/png' href='/favicon.png' /></head>
 
 This site is under construction, come back soon... or not so soon, to see it finished. Meanwhile you can visit my [Twitter][twitter] for more information.
 

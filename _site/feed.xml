@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title></title>
+    <description></description>
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Mon, 16 Oct 2017 23:38:51 +0200</pubDate>
+    <lastBuildDate>Mon, 16 Oct 2017 23:38:51 +0200</lastBuildDate>
+    <generator>Jekyll v3.5.2</generator>
+    
+      <item>
+        <title>Site Under Construction!</title>
+        <description>&lt;head&gt;&lt;link rel=&quot;shortcut icon&quot; type=&quot;image/png&quot; href=&quot;/favicon.png&quot; /&gt;&lt;/head&gt;
+
+&lt;p&gt;This site is under construction, come back soon… or not so soon, to see it finished. Meanwhile you can visit my &lt;a href=&quot;https://twitter.com/elkinaguas&quot;&gt;Twitter&lt;/a&gt; for more information.&lt;/p&gt;
+
+</description>
+        <pubDate>Tue, 12 Sep 2017 00:48:45 +0200</pubDate>
+        <link>http://localhost:4000/blog/2017/09/12/Site-Under-Construction/</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/2017/09/12/Site-Under-Construction/</guid>
+        
+        
+        <category>blog</category>
+        
+      </item>
+    
+  </channel>
+</rss>

@@ -2,6 +2,8 @@
 layout: default
 title: Blog archive
 ---
+
+<head><link rel='shortcut icon' type='image/png' href='/favicon.png' /></head>
 <div class="page-content wc-container">
   <h1>Blog Archive</h1>  
   {% for post in site.posts %}

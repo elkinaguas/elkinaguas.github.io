@@ -13,23 +13,11 @@ where my work is focused on computer networks and the Internet.
 
 ### Contact me
 
-Find me on [Twitter][Twitter] / [Github][github] or just say `Hello` at `hello@elkinaguas.com`.
-
-<!DOCTYPE html>
-<html>
-<body>
-
-<p>
+Find me on [Twitter][Twitter] / [Github][github] or just say `Hello` at `hello@elkinaguas.com`. <p>
 This is an email link:
 <a href="mailto:someone@example.com?Subject=Hello%20again" target="_top">Send Mail</a>
 </p>
 
-<p>
-<b>Note:</b> Spaces between words should be replaced by %20 to ensure that the browser will display the text properly.
-</p>
-
-</body>
-</html>
 
 [github]: https://github.com/elkinaguas
 [twitter]: https://twitter.com/elkinaguas

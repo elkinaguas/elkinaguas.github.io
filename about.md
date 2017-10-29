@@ -13,7 +13,7 @@ where my work is focused on computer networks and the Internet.
 
 ### Contact me
 
-Find me on [Twitter][Twitter] / [Github][github] or just say `Hello` at 'hello@elkinaguas.com'.
+Find me on [Twitter][Twitter] / [Github][github] or just say `Hello` at `hello@elkinaguas.com`.
 
 [github]: https://github.com/elkinaguas
 [twitter]: https://twitter.com/elkinaguas

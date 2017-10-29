@@ -13,10 +13,7 @@ where my work is focused on computer networks and the Internet.
 
 ### Contact me
 
-Find me on [Twitter][Twitter] / [Github][github] or just say `Hello` at `hello@elkinaguas.com`. <p>
-This is an email link:
-<a href="mailto:someone@example.com?Subject=Hello%20again" target="_top">Send Mail</a>
-</p>
+Find me on [Twitter][Twitter] / [Github][github] or just say `Hello` at `hello@elkinaguas.com`. <a href="mailto:hello@elkinaguas.com?Subject=Hello" target="_top">hello@elkinaguas.com</a>
 
 
 [github]: https://github.com/elkinaguas

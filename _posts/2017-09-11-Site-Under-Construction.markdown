@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Site Under Construction!"
+title:  "Simple Salt-Minion architecture up and running"
 date:   2018-04-30 13:47:45
 description: Simple Salt-Minion architecture up and running
 categories:

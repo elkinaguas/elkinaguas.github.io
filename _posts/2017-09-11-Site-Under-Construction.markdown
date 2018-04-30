@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Simple Salt-Minion architecture up and running"
+title:  "Simple Salt-Minion Architecture Up and Running"
 date:   2018-04-30 13:47:45
 description: Simple Salt-Minion architecture up and running
 categories:

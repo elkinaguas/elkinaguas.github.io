@@ -8,8 +8,6 @@ categories:
 ---
 <head><link rel='shortcut icon' type='image/png' href='/favicon.png' /></head>
 
-# Simple Salt-Minion architecture up and running
-
 When I started working with Salt the only thing I wanted to was to have simple architecture, one master and one minion, up and running to help me understand the concept and all the theory I had been reading, and that is why I decided to write this post. So the idea is basically that you have a simple Master-Minion architecture that you can use to apply different configuration and expand your knowledge in Salt. For that I recommend you to read the [Salt documentation](https://docs.saltstack.com/en/latest/contents.html).
 
 ## Salt installation

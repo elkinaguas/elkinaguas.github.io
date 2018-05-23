@@ -8,7 +8,7 @@ categories:
 ---
 <head><link rel='shortcut icon' type='image/png' href='/favicon.png' /></head>
 
-When I started working with Salt the only thing I wanted to was to have simple architecture, one master and one minion, up and running to help me understand the concept and all the theory I had been reading, and that is why I decided to write this post. So the idea is basically that you have a simple Master-Minion architecture that you can use to apply different configuration and expand your knowledge in Salt. For that I recommend you to read the [Salt documentation](https://docs.saltstack.com/en/latest/contents.html).
+When I started working with Salt the only thing I wanted to was to have a simple architecture, one master and one minion, up and running to help me understand the concept and all the theory I had been reading, and that is why I decided to write this post. So the idea is basically that you have a simple Master-Minion architecture that you can use to apply different configuration and expand your knowledge in Salt. For that I recommend you to read the [Salt documentation](https://docs.saltstack.com/en/latest/contents.html). If you read this post until the end and follow the instructions you will have a salt-master and a salt-minion running locally in your computer, in a production environment these two will most likely be located in different machines.
 
 ## Salt installation
 The first thing to do is installing Salt, an easy way to do this is by using the salt bootstrap. Get it by running the following command.

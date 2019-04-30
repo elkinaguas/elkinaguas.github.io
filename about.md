@@ -7,10 +7,11 @@ permalink: /about/
 
 Hi, I am Elkin, a Network Engineer based in France, right now in the first of my PhD. I'm working on methods to automate proteccion of network resources and services.
 
+I'm interested on network protocols, Software Defined Network (SDN), Machine Learning, and software development.
+
 ### Contact me
 
-Find me on [Twitter][Twitter] / [Github][github] / [Linkedin][linkedin] or just say `Hello` at <a href="mailto:hello@elkinaguas.com?Subject=Hello" target="_blank">hello@elkinaguas.com</a>.
-
+Find me on [Twitter][Twitter] / [Github][github] / [Linkedin][linkedin]
 
 [github]: https://github.com/elkinaguas
 [twitter]: https://twitter.com/elkinaguas

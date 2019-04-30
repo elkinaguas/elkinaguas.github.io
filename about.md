@@ -5,9 +5,7 @@ permalink: /about/
 ---
 <head><link rel='shortcut icon' type='image/png' href='/favicon.png' /></head>
 
-Hi, I am Elkin, a Network Engineer based in France, right now in the first of my PhD. I'm working on methods to automate proteccion of network resources and services.
-
-I'm interested on network protocols, Software Defined Network (SDN), Machine Learning, and software development.
+Hi, I am Elkin, a Network Engineer based in France, right now in the first year of my PhD that consists on methods to automate protection of network resources and services. I'm interested in network protocols, Software Defined Network (SDN), Machine Learning, and software development, and I have strong passion for developing systems and proposing ideas that put the four of them together.
 
 ### Contact me
 

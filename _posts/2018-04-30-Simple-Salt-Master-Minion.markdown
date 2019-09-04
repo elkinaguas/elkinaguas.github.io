@@ -24,7 +24,7 @@ And finally the slat-master with the command:
 sudo sh bootstrap-salt.sh -M
 ```
 ## Minion config file
-After you are done with the installation the first thing to do is to configure the minion config file to specify to the minion that the Master can be found in localhost, this means the minion and the master are gonna be running in the same machine, in this case the machine where you installed salt.
+After you are done with the installation the first thing to do is to configure the minion config file to specify to the minion that the Master can be found in localhost, this means the minion and the master are going to be running in the same machine, in this case the machine where you installed salt.
 
 Open the minion config file `/etc/salt/minion` and on top of the file the line:
 

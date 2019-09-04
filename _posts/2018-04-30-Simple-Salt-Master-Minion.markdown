@@ -65,7 +65,7 @@ With this command the server is telling to all the minions to execute `test.ping
 ```
 And that's all. I guess now you can see better what the basic idea is. Of course Salt capabilities are not limited to telling the minions to do a ping. There are plenty of functions to be executed in minions which, of course, increase the complexity and capabilities of Salt.
 
-After having this little example up and running I truly recommend you to [Sending the First Commands](https://docs.saltstack.com/en/latest/topics/tutorials/walkthrough.html#sending-the-first-commands) section or even better, move forward to the [Salt States](https://docs.saltstack.com/en/latest/topics/tutorials/walkthrough.html#salt-states) section which I find much more interesting and fun to play with. Until next time.
+After having this little example up and running I truly recommend you to [Sending the First Commands](https://docs.saltstack.com/en/latest/topics/tutorials/walkthrough.html#sending-the-first-commands) section or even better, move forward to the [Salt States](https://docs.saltstack.com/en/latest/topics/tutorials/walkthrough.html#salt-states) section which I find much more interesting and fun to play with.
 
 ## References:
 [1] https://docs.saltstack.com/en/latest/topics/tutorials/walkthrough.html

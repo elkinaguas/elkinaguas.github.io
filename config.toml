@@ -28,7 +28,7 @@ weight = 15
 [params.profileMode]
 enabled = true
 title = "Elkin Aguas"
-subtitle = "DevOps Engineer at Orange Business <span style=\"color:#4285F4\">G</span><span style=\"color:#DB4437\">o</span><span style=\"color:#F4B400\">o</span><span style=\"color:#4285F4\">g</span><span style=\"color:#0F9D58\">l</span><span style=\"color:#DB4437\">e</span>"
+subtitle = "DevOps Engineer at Orange Business"
 imageUrl = "./img/me.jpg"
 imageWidth = 120
 imageHeight = 120

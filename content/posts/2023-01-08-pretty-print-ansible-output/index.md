@@ -3,7 +3,7 @@ layout: post
 title: "Pretty Print Ansible Output"
 date: 2023-07-31 09:25:14
 description: Configure ansible so that its output is prettier
-tags: [linux, ansible]
+tags: [ansible]
 comments: true
 ---
 

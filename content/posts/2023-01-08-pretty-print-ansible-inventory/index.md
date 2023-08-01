@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Pretty Print Ansible Inventory"
-date: 2023-08-01 09:25:14
+date: 2023-07-31 09:25:14
 description: Pretty print ansible inventriy using the --graph flag
 tags: [linux, ansible]
 comments: true

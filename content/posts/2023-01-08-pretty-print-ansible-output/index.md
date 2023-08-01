@@ -16,5 +16,3 @@ stdout_callback = community.general.yaml
 ```
 
 You'are all set.
-
-{{ template "_internal/disqus.html" . }}

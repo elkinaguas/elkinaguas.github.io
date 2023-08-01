@@ -11,6 +11,11 @@ weight = 1
 tag = "tags"
 
 [[languages.en.menu.main]]
+name = "Secreto"
+url = "secreto/"
+weight = 1
+
+[[languages.en.menu.main]]
 name = "Posts"
 url = "posts/"
 weight = 5

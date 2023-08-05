@@ -14,7 +14,7 @@ mkdocs new <project-name>
 ```
 
 Change the theme in the `mkdocs.yml` file:
-```bash
+```yaml
 site_name: My Docs
 
 theme:

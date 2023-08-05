@@ -65,8 +65,35 @@ secrets:
     file: ./root_password.txt
 ```
 
-Restart your GitLab instance:
+Change the `external_url` in the file `gitlab/config/gitlab.rb`:
+
+```bash
+external_url 'http://192.168.1.50:8787'
+```
+
+Start your GitLab instance:
 
 ```bash
 docker stack deploy --compose-file docker-compose.yml gitlab
+```
+ 
+ > Note: if your runner doesn't work you might need to register it again.
+
+
+# Add the Clone URL to the GitLab Runner
+Once the runner is operational, you need to change the `clone_url` so that the runner can download the project's file.
+
+Add the `clone_url` to the `/etc/gitlab-runner/config.toml` inside the GitLab runner.
+
+![GitLab runner clone url](img/gitlab_runner_clone_url.png)
+
+Exit the GitLab runner and update the service:
+```bash
+docker service update gitlab_gitlab-runner
+```
+
+You can force the update the changes are not taken into account:
+
+```bash
+docker service update --force <service_id>
 ```

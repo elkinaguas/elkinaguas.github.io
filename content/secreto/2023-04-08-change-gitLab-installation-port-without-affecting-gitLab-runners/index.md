@@ -85,3 +85,5 @@ Exit the GitLab runner and update the GitLab runner service:
 ```bash
 docker service update --force <service_id>
 ```
+
+You're all set.

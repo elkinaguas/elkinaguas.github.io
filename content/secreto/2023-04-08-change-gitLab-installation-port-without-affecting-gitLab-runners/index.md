@@ -18,14 +18,7 @@ Get GitLab up an running with Docker Swarm. Here are some links that can help yo
 - https://geek-cookbook.funkypenguin.co.nz/recipes/gitlab/
 
 # Change the Port and Restart GitLab
-Once you have GitLab up and running on port 80, stop the GitLab stack before changing the port:
-
-```bash
-# Here the stack is called gitlab
-docker stack rm gitlab
-```
-
-Now change the port in the `docker-compose.yml` file. I set the port to 8787.
+Once you have GitLab up and running on port 80, change the port in the `docker-compose.yml` file. I set the port to 8787.
 
 ```yaml
 version: "3.6"
@@ -68,31 +61,26 @@ secrets:
 Change the `external_url` in the file `gitlab/config/gitlab.rb`:
 
 ```bash
-external_url 'http://192.168.1.50:8787'
+external_url 'http://192.168.1.50'
 ```
 
-Start your GitLab instance:
+Update you GitLab service (get the services with the command `docker stack services gitlab`):
 
 ```bash
-docker stack deploy --compose-file docker-compose.yml gitlab
+docker service update --force <service_id>
 ```
  
- > Note: if your runner doesn't work you might need to register it again.
+ > Note: if your runner doesn't work you might need to register it again. Use the URL http://<IP_OR_DOMAIN>:8787.
 
 
 # Add the Clone URL to the GitLab Runner
-Once the runner is operational, you need to change the `clone_url` so that the runner can download the project's file.
+Once the runner is registered to your project and working, you need to change the `clone_url` so that the runner can download the project's file.
 
 Add the `clone_url` to the `/etc/gitlab-runner/config.toml` inside the GitLab runner.
 
 ![GitLab runner clone url](img/gitlab_runner_clone_url.png)
 
-Exit the GitLab runner and update the service:
-```bash
-docker service update gitlab_gitlab-runner
-```
-
-You can force the update the changes are not taken into account:
+Exit the GitLab runner and update the GitLab runner service:
 
 ```bash
 docker service update --force <service_id>

@@ -3,7 +3,7 @@ layout: post
 title: "Modify Parameters of AWX's Job Template"
 date: 2023-08-03 09:25:14
 description: Modify Parameters
-tags: [ansible,awx]
+tags: []
 comments: true
 ---
 

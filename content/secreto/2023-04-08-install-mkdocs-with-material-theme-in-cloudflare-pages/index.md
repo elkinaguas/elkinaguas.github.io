@@ -39,4 +39,6 @@ git push -u origin main
 
 Create a new application in your cloudflare in **Workers & Pages > Create application > Pages > Connect to Git** and select your project's repository.
 
-Go to **Environment variables (advanced) > Add variable** > and add the variable PYTHON_VERSION with a value of 3.7
+Go to **Environment variables (advanced) > Add variable** > and add the variable PYTHON_VERSION with a value of 3.7 and deploy your project.
+
+You're all set.

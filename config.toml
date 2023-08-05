@@ -25,6 +25,9 @@ name = "Tags"
 url = "tags/"
 weight = 15
 
+[params]
+favicon = “./img/favicon.png”
+
 [params.profileMode]
 enabled = true
 title = "Elkin Aguas"

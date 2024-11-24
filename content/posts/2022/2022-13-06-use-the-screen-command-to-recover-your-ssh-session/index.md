@@ -12,7 +12,7 @@ What do you do if you lose your SSH connection to a server and you want to open 
 Screen is usually pre-installed in modern Linux distros, but if it's not you can install it using `sudo apt install screen`.
 
 ## Using screen
-Start the session you don't want to lose:
+Start a session you don't want to lose:
 ```bash
 screen -S session_name
 ```

@@ -1,0 +1,46 @@
+baseURL = 'http://example.org/'
+languageCode = 'en-us'
+title = "elkinaguas"
+theme = ['hugo-notice', 'PaperMod']
+
+[languages.en]
+languageName = "English"
+weight = 1
+
+[languages.en.taxonomies]
+tag = "tags"
+
+[[languages.en.menu.main]]
+name = "Posts"
+url = "posts/"
+weight = 5
+
+[[languages.en.menu.main]]
+name = "Search"
+url = "search/"
+weight = 10
+
+[[languages.en.menu.main]]
+name = "Tags"
+url = "tags/"
+weight = 15
+
+[params.profileMode]
+enabled = true
+title = "Elkin Aguas"
+subtitle = "DevOps Engineer at Orange Business"
+imageUrl = "./img/me.jpg"
+imageWidth = 120
+imageHeight = 120
+
+
+[[params.socialIcons]]
+name = "Twitter"
+url = "https://twitter.com/elkinaguas"
+
+[[params.socialIcons]]
+name = "GitHub"
+url = "https://github.com/elkinaguas"
+
+disqusShortname = 'elkinaguas-1'
+

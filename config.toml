@@ -1,7 +1,10 @@
 baseURL = 'http://example.org/'
 languageCode = 'en-us'
 title = "elkinaguas"
-theme = ['hugo-notice', 'PaperMod']
+theme = 'PaperMod'
+
+[outputs]
+  home = ["HTML", "RSS", "JSON"]
 
 [languages.en]
 languageName = "English"

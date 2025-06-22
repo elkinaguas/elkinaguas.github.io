@@ -1,0 +1,32 @@
+# Hugo build output
+/public/
+/resources/_gen/
+
+# Hugo lock file (not needed if not using Hugo Modules)
+hugo_build.lock
+
+# Node modules (for Tailwind, PostCSS, etc.)
+node_modules/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Editor / IDE files
+*.swp
+*.swo
+*.swn
+*.bak
+*.tmp
+*~
+.vscode/
+
+# Logs and caches
+*.log
+.cache/
+
+# Local config / secrets
+.env
+
+# Theme git folders (if themes were cloned manually and .git was not removed)
+themes/*/.git/

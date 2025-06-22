@@ -3,6 +3,12 @@ languageCode = 'en-us'
 title = "elkinaguas"
 theme = 'PaperMod'
 
+# Allow raw HTML in markdown
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
 [outputs]
   home = ["HTML", "RSS", "JSON"]
 
@@ -28,14 +34,17 @@ name = "Tags"
 url = "tags/"
 weight = 15
 
+[params]
+customCSS = ["css/custom.css"]
+disqusShortname = 'elkinaguas-1'
+
 [params.profileMode]
 enabled = true
 title = "Elkin Aguas"
-subtitle = "DevOps Engineer at Orange Business"
+subtitle = 'DevOps Engineer at {{< orange >}}Orange Business{{< /orange >}}'
 imageUrl = "./img/me.jpg"
 imageWidth = 120
 imageHeight = 120
-
 
 [[params.socialIcons]]
 name = "Twitter"
@@ -44,6 +53,3 @@ url = "https://twitter.com/elkinaguas"
 [[params.socialIcons]]
 name = "GitHub"
 url = "https://github.com/elkinaguas"
-
-disqusShortname = 'elkinaguas-1'
-

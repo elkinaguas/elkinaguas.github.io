@@ -3,12 +3,6 @@ languageCode = 'en-us'
 title = "elkinaguas"
 theme = 'PaperMod'
 
-# Allow raw HTML in markdown
-[markup]
-  [markup.goldmark]
-    [markup.goldmark.renderer]
-      unsafe = true
-
 [outputs]
   home = ["HTML", "RSS", "JSON"]
 

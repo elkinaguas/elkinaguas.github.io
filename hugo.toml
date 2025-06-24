@@ -51,3 +51,7 @@ url = "https://github.com/elkinaguas"
 [[params.socialIcons]]
 name = "GitLab"
 url = "https://gitlab.com/elkinaguas"
+
+[[params.socialIcons]]
+name = "LinkedIn"
+url = "https://www.linkedin.com/in/elkinaguas"

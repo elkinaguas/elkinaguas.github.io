@@ -6,12 +6,10 @@ theme = 'PaperMod'
 [outputs]
   home = ["HTML", "RSS", "JSON"]
 
+# English menu and content
 [languages.en]
 languageName = "English"
 weight = 1
-
-[languages.en.taxonomies]
-tag = "tags"
 
 [[languages.en.menu.main]]
 name = "Posts"
@@ -28,9 +26,59 @@ name = "Tags"
 url = "tags/"
 weight = 15
 
+[languages.en.taxonomies]
+tag = "tags"
+
+# French menu and content
+[languages.fr]
+languageName = "Français"
+weight = 2
+
+[[languages.fr.menu.main]]
+name = "Articles"
+url = "posts/"
+weight = 5
+
+[[languages.fr.menu.main]]
+name = "Recherche"
+url = "search/"
+weight = 10
+
+[[languages.fr.menu.main]]
+name = "Tags"
+url = "tags/"
+weight = 15
+
+[languages.fr.taxonomies]
+tag = "tags"
+
+# Spanish menu and content
+[languages.es]
+languageName = "Español"
+weight = 3
+
+[[languages.es.menu.main]]
+name = "Publicaciones"
+url = "posts/"
+weight = 5
+
+[[languages.es.menu.main]]
+name = "Buscar"
+url = "search/"
+weight = 10
+
+[[languages.es.menu.main]]
+name = "Tags"
+url = "tags/"
+weight = 15
+
+[languages.es.taxonomies]
+tag = "tags"
+
 [params]
 customCSS = ["css/custom.css"]
 disqusShortname = 'elkinaguas-1'
+fontawesome = true
 
 [params.profileMode]
 enabled = true
@@ -55,3 +103,9 @@ url = "https://gitlab.com/elkinaguas"
 [[params.socialIcons]]
 name = "LinkedIn"
 url = "https://www.linkedin.com/in/elkinaguas"
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+      

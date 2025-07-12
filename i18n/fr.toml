@@ -1,0 +1,37 @@
+[year_singular]
+other = "an"
+[year_plural]
+other = "ans"
+[month_singular]
+other = "mois"
+[month_plural]
+other = "mois"
+[and]
+other = "et"
+[current]
+other = "actuel"
+
+[january]
+other = "janvier"
+[february]
+other = "février"
+[march]
+other = "mars"
+[april]
+other = "avril"
+[may]
+other = "mai"
+[june]
+other = "juin"
+[july]
+other = "juillet"
+[august]
+other = "août"
+[september]
+other = "septembre"
+[october]
+other = "octobre"
+[november]
+other = "novembre"
+[december]
+other = "décembre"

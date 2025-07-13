@@ -9,29 +9,29 @@ other = "mois"
 [and]
 other = "et"
 [current]
-other = "actuel"
+other = "Actuel"
 
 [january]
-other = "janvier"
+other = "Janvier"
 [february]
-other = "février"
+other = "Février"
 [march]
-other = "mars"
+other = "Mars"
 [april]
-other = "avril"
+other = "Avril"
 [may]
-other = "mai"
+other = "Mai"
 [june]
-other = "juin"
+other = "Juin"
 [july]
-other = "juillet"
+other = "Juillet"
 [august]
-other = "août"
+other = "Août"
 [september]
-other = "septembre"
+other = "Septembre"
 [october]
-other = "octobre"
+other = "Octobre"
 [november]
-other = "novembre"
+other = "Novembre"
 [december]
-other = "décembre"
+other = "Décembre"

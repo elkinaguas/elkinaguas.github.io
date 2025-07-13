@@ -9,7 +9,7 @@ other = "months"
 [and]
 other = "and"
 [current]
-other = "current"
+other = "Current"
 
 [january]
 other = "January"

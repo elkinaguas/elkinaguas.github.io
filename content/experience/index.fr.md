@@ -56,6 +56,17 @@ menu:
       <span style="display: flex; align-items: center;"><img src="/icons/traefik.svg" alt="Traefik" width="20" height="20" style="margin-right: 4px;" title="Traefik"><span style="color: #888; font-size: 0.9rem;">Traefik</span></span>
       <span style="display: flex; align-items: center;"><img src="/icons/vault.svg" alt="Vault" width="20" height="20" style="margin-right: 4px;" title="Vault"><span style="color: #888; font-size: 0.9rem;">Vault</span></span>
     </div>
+    <!-- Observabilité & Supervision -->
+    <div style="margin: 1rem 0 0.5rem 0;">
+      <strong style="color: #444;">📊 Observabilité & Supervision</strong>
+    </div>
+    <div style="display: flex; flex-wrap: wrap; gap: 10px;">
+      <span style="display: flex; align-items: center;"><img src="/icons/grafana.svg" alt="Grafana" width="20" height="20" style="margin-right: 4px;" title="Grafana"><span style="color: #888; font-size: 0.9rem;">Grafana</span></span>
+      <span style="display: flex; align-items: center;"><img src="/icons/prometheus.svg" alt="Prometheus" width="20" height="20" style="margin-right: 4px;" title="Prometheus"><span style="color: #888; font-size: 0.9rem;">Prometheus</span></span>
+      <span style="display: flex; align-items: center;"><img src="/icons/loki.png" alt="Loki" width="20" height="20" style="margin-right: 4px;" title="Loki"><span style="color: #888; font-size: 0.9rem;">Loki</span></span>
+      <span style="display: flex; align-items: center;"><img src="/icons/thanos.png" alt="Thanos" width="20" height="20" style="margin-right: 4px;" title="Thanos"><span style="color: #888; font-size: 0.9rem;">Thanos</span></span>
+      <span style="display: flex; align-items: center;"><img src="/icons/opentelemetry.svg" alt="OpenTelemetry" width="20" height="20" style="margin-right: 4px;" title="OpenTelemetry"><span style="color: #888; font-size: 0.9rem;">OpenTelemetry</span></span>
+    </div>
   </div>
 
   <!-- Column 2 -->

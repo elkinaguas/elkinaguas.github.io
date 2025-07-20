@@ -21,7 +21,7 @@ menu:
 
 <!-- Descripcion -->
 <p style="display: flex; align-items: center; flex-wrap: wrap; text-align: justify;">
-Participo en el soporte al equipo de desarrollo sobre la plataforma de despliegue OpenShift (Kubernetes), aplicando prácticas GitOps con la herramienta ArgoCD, garantizando la confiabilidad y seguridad de su aplicación. Me encargo de automatizar procesos utilizando AWX (Ansible), GitLab CI/CD y Python.
+Participo en el soporte al equipo de desarrollo sobre la plataforma de despliegue OpenShift, aplicando prácticas GitOps con la herramienta ArgoCD, garantizando la confiabilidad y seguridad de su aplicación. Me encargo de automatizar procesos utilizando AWX (Ansible), GitLab CI/CD y Python.
 </p>
 
 <div style="display: flex; flex-wrap: wrap; gap: 2rem;">
@@ -42,9 +42,11 @@ Participo en el soporte al equipo de desarrollo sobre la plataforma de despliegu
       <strong style="color: #444;">📦 Contenerización y Virtualización</strong>
     </div>
     <div style="display: flex; flex-wrap: wrap; gap: 10px;">
-      <span style="display: flex; align-items: center;"><img src="/icons/docker.svg" alt="Docker" width="20" height="20" style="margin-right: 4px;" title="Docker"><span style="color: #888; font-size: 0.9rem;">Docker</span></span>
       <span style="display: flex; align-items: center;"><img src="/icons/podman.svg" alt="Podman" width="20" height="20" style="margin-right: 4px;" title="Podman"><span style="color: #888; font-size: 0.9rem;">Podman</span></span>
+      <span style="display: flex; align-items: center;"><img src="/icons/openshift.png" alt="GitLab" width="20" height="20" style="margin-right: 4px;" title="OpenShift"><span style="color: #888; font-size: 0.9rem;">OpenShift</span></span>
+      <span style="display: flex; align-items: center;"><img src="/icons/docker.svg" alt="Docker" width="20" height="20" style="margin-right: 4px;" title="Docker"><span style="color: #888; font-size: 0.9rem;">Docker</span></span>
       <span style="display: flex; align-items: center;"><img src="/icons/vagrant.svg" alt="Vagrant" width="20" height="20" style="margin-right: 4px;" title="Vagrant"><span style="color: #888; font-size: 0.9rem;">Vagrant</span></span>
+      <span style="display: flex; align-items: center;"><img src="/icons/packer.svg" alt="Packer" width="20" height="20" style="margin-right: 4px;" title="Packer"><span style="color: #888; font-size: 0.9rem;">Packer</span></span>
     </div>
     <!-- Protocoles et technologies réseau -->
     <div style="margin: 1rem 0 0.5rem 0;">
@@ -53,7 +55,6 @@ Participo en el soporte al equipo de desarrollo sobre la plataforma de despliegu
     <div style="display: flex; flex-wrap: wrap; gap: 10px;">
       <span style="display: flex; align-items: center;"><img src="/icons/haproxy.svg" alt="HAProxy" width="20" height="20" style="margin-right: 4px;" title="HAProxy"><span style="color: #888; font-size: 0.9rem;">HAProxy</span></span>
       <span style="display: flex; align-items: center;"><img src="/icons/traefik.svg" alt="Traefik" width="20" height="20" style="margin-right: 4px;" title="Traefik"><span style="color: #888; font-size: 0.9rem;">Traefik</span></span>
-      <span style="display: flex; align-items: center;"><img src="/icons/vault.svg" alt="Vault" width="20" height="20" style="margin-right: 4px;" title="Vault"><span style="color: #888; font-size: 0.9rem;">Vault</span></span>
     </div>
     <!-- Observabilidad y Monitorización -->
     <div style="margin: 1rem 0 0.5rem 0;">
@@ -77,7 +78,6 @@ Participo en el soporte al equipo de desarrollo sobre la plataforma de despliegu
     <div style="display: flex; flex-wrap: wrap; gap: 10px;">
       <span style="display: flex; align-items: center;"><img src="/icons/ansible.svg" alt="Ansible" width="20" height="20" style="margin-right: 4px;" title="Ansible"><span style="color: #888; font-size: 0.9rem;">Ansible</span></span>
       <span style="display: flex; align-items: center;"><img src="/icons/argocd.svg" alt="Argo CD" width="20" height="20" style="margin-right: 4px;" title="Argo CD"><span style="color: #888; font-size: 0.9rem;">Argo CD</span></span>
-      <span style="display: flex; align-items: center;"><img src="/icons/packer.svg" alt="Packer" width="20" height="20" style="margin-right: 4px;" title="Packer"><span style="color: #888; font-size: 0.9rem;">Packer</span></span>
       <span style="display: flex; align-items: center;"><img src="/icons/gitlab.svg" alt="GitLab" width="20" height="20" style="margin-right: 4px;" title="GitLab"><span style="color: #888; font-size: 0.9rem;">GitLab</span></span>
     </div>
     <!-- Systèmes d'exploitation -->
@@ -85,16 +85,18 @@ Participo en el soporte al equipo de desarrollo sobre la plataforma de despliegu
       <strong style="color: #444;">💻 Sistemas Operativos</strong>
     </div>
     <div style="display: flex; flex-wrap: wrap; gap: 10px;">
-      <span style="display: flex; align-items: center;"><img src="/icons/linux.svg" alt="Linux" width="20" height="20" style="margin-right: 4px;" title="Linux"><span style="color: #888; font-size: 0.9rem;">Linux</span></span>
       <span style="display: flex; align-items: center;"><img src="/icons/redhat.svg" alt="Red Hat" width="20" height="20" style="margin-right: 4px;" title="Red Hat"><span style="color: #888; font-size: 0.9rem;">Red Hat</span></span>
+      <span style="display: flex; align-items: center;"><img src="/icons/almalinux.svg" alt="AlmaLinux" width="20" height="20" style="margin-right: 4px;" title="AlmaLinux"><span style="color: #888; font-size: 0.9rem;">AlmaLinux</span></span>
+      <span style="display: flex; align-items: center;"><img src="/icons/centos.svg" alt="CentOS" width="20" height="20" style="margin-right: 4px;" title="CentOS"><span style="color: #888; font-size: 0.9rem;">CentOS</span></span>
     </div>
     <!-- Seguridad y Gestión de secretos -->
     <div style="margin: 1rem 0 0.5rem 0;">
       <strong style="color: #444;">🔐 Seguridad y Gestión de secretos</strong>
     </div>
     <div style="display: flex; flex-wrap: wrap; gap: 10px;">
-      <span style="display: flex; align-items: center;"><img src="/icons/linux.svg" alt="Linux" width="20" height="20" style="margin-right: 4px;" title="Linux"><span style="color: #888; font-size: 0.9rem;">Linux</span></span>
-      <span style="display: flex; align-items: center;"><img src="/icons/redhat.svg" alt="Red Hat" width="20" height="20" style="margin-right: 4px;" title="Red Hat"><span style="color: #888; font-size: 0.9rem;">Red Hat</span></span>
+      <span style="display: flex; align-items: center;"><img src="/icons/vault.svg" alt="Vault" width="20" height="20" style="margin-right: 4px;" title="Vault"><span style="color: #888; font-size: 0.9rem;">Vault</span></span>
+      <span style="display: flex; align-items: center;"><img src="/icons/gpg.svg" alt="Linux" width="20" height="20" style="margin-right: 4px;" title="GNU Privacy Guard"><span style="color: #888; font-size: 0.9rem;">GNU Privacy Guard</span></span>
+      <span style="display: flex; align-items: center;"><img src="/icons/clamav.png" alt="ClamAV" width="20" height="20" style="margin-right: 4px;" title="ClamAV"><span style="color: #888; font-size: 0.9rem;">ClamAV</span></span>
     </div>
   </div>
 </div>
@@ -175,8 +177,7 @@ Contribuyo al desarrollo y automatización de entornos de despliegue, así como 
       <strong style="color: #444;">🔐 Seguridad y Gestión de secretos</strong>
     </div>
     <div style="display: flex; flex-wrap: wrap; gap: 10px;">
-      <span style="display: flex; align-items: center;"><img src="/icons/linux.svg" alt="Linux" width="20" height="20" style="margin-right: 4px;" title="Linux"><span style="color: #888; font-size: 0.9rem;">Linux</span></span>
-      <span style="display: flex; align-items: center;"><img src="/icons/redhat.svg" alt="Red Hat" width="20" height="20" style="margin-right: 4px;" title="Red Hat"><span style="color: #888; font-size: 0.9rem;">Red Hat</span></span>
+      <span style="display: flex; align-items: center;"><img src="/icons/gpg.svg" alt="Linux" width="20" height="20" style="margin-right: 4px;" title="GNU Privacy Guard"><span style="color: #888; font-size: 0.9rem;">GNU Privacy Guard</span></span>
     </div>
   </div>
 </div>
@@ -209,7 +210,6 @@ Contribuyo a actividades de investigación sobre Event‑Driven Network Automati
     <div style="display: flex; flex-wrap: wrap; gap: 10px;">
       <span style="display: flex; align-items: center;"><img src="/icons/python.svg" alt="Python" width="20" height="20" style="margin-right: 4px;" title="Python"><span style="color: #888; font-size: 0.9rem;">Python</span></span>
       <span style="display: flex; align-items: center;"><img src="/icons/bash.svg" alt="Bash" width="20" height="20" style="margin-right: 4px;" title="Bash"><span style="color: #888; font-size: 0.9rem;">Bash</span></span>
-      <span style="display: flex; align-items: center;"><img src="/icons/fastapi.svg" alt="FastAPI" width="20" height="20" style="margin-right: 4px;" title="FastAPI"><span style="color: #888; font-size: 0.9rem;">FastAPI</span></span>
     </div>
     <!-- Conteneurisation et virtualisation -->
     <div style="margin: 1rem 0 0.5rem 0;">
@@ -217,7 +217,6 @@ Contribuyo a actividades de investigación sobre Event‑Driven Network Automati
     </div>
     <div style="display: flex; flex-wrap: wrap; gap: 10px;">
       <span style="display: flex; align-items: center;"><img src="/icons/docker.svg" alt="Docker" width="20" height="20" style="margin-right: 4px;" title="Docker"><span style="color: #888; font-size: 0.9rem;">Docker</span></span>
-      <span style="display: flex; align-items: center;"><img src="/icons/podman.svg" alt="Podman" width="20" height="20" style="margin-right: 4px;" title="Podman"><span style="color: #888; font-size: 0.9rem;">Podman</span></span>
       <span style="display: flex; align-items: center;"><img src="/icons/vagrant.svg" alt="Vagrant" width="20" height="20" style="margin-right: 4px;" title="Vagrant"><span style="color: #888; font-size: 0.9rem;">Vagrant</span></span>
     </div>
     <!-- Protocoles et technologies réseau -->
@@ -227,7 +226,6 @@ Contribuyo a actividades de investigación sobre Event‑Driven Network Automati
     <div style="display: flex; flex-wrap: wrap; gap: 10px;">
       <span style="display: flex; align-items: center;"><img src="/icons/haproxy.svg" alt="HAProxy" width="20" height="20" style="margin-right: 4px;" title="HAProxy"><span style="color: #888; font-size: 0.9rem;">HAProxy</span></span>
       <span style="display: flex; align-items: center;"><img src="/icons/traefik.svg" alt="Traefik" width="20" height="20" style="margin-right: 4px;" title="Traefik"><span style="color: #888; font-size: 0.9rem;">Traefik</span></span>
-      <span style="display: flex; align-items: center;"><img src="/icons/vault.svg" alt="Vault" width="20" height="20" style="margin-right: 4px;" title="Vault"><span style="color: #888; font-size: 0.9rem;">Vault</span></span>
     </div>
   </div>
 
@@ -256,8 +254,7 @@ Contribuyo a actividades de investigación sobre Event‑Driven Network Automati
       <strong style="color: #444;">🔐 Seguridad y Gestión de secretos</strong>
     </div>
     <div style="display: flex; flex-wrap: wrap; gap: 10px;">
-      <span style="display: flex; align-items: center;"><img src="/icons/linux.svg" alt="Linux" width="20" height="20" style="margin-right: 4px;" title="Linux"><span style="color: #888; font-size: 0.9rem;">Linux</span></span>
-      <span style="display: flex; align-items: center;"><img src="/icons/redhat.svg" alt="Red Hat" width="20" height="20" style="margin-right: 4px;" title="Red Hat"><span style="color: #888; font-size: 0.9rem;">Red Hat</span></span>
+      <span style="display: flex; align-items: center;"><img src="/icons/gpg.svg" alt="GNU Privacy Guard" width="20" height="20" style="margin-right: 4px;" title="GNU Privacy Guard"><span style="color: #888; font-size: 0.9rem;">GNU Privacy Guard</span></span>
     </div>
   </div>
 </div>

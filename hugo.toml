@@ -26,6 +26,11 @@ name = "Tags"
 url = "tags/"
 weight = 15
 
+[[languages.en.menu.main]]
+name = "About"
+url = "about/"
+weight = 20
+
 [languages.en.taxonomies]
 tag = "tags"
 
@@ -49,6 +54,11 @@ name = "Tags"
 url = "tags/"
 weight = 15
 
+[[languages.fr.menu.main]]
+name = "About"
+url = "about/"
+weight = 20
+
 [languages.fr.taxonomies]
 tag = "tags"
 
@@ -71,6 +81,11 @@ weight = 10
 name = "Tags"
 url = "tags/"
 weight = 15
+
+[[languages.es.menu.main]]
+name = "About"
+url = "about/"
+weight = 20
 
 [languages.es.taxonomies]
 tag = "tags"

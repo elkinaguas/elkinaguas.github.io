@@ -41,7 +41,6 @@ I support the Dev team on the OpenShift deployment platform by applying GitOps p
       <span style="display: flex; align-items: center;"><img src="/icons/haproxy.svg" alt="HAProxy" width="20" height="20" style="margin-right: 4px;" title="HAProxy"><span style="color: #888; font-size: 0.9rem;">HAProxy</span></span>
       <span style="display: flex; align-items: center;"><img src="/icons/nginx.svg" alt="Vault" width="20" height="20" style="margin-right: 4px;" title="Nginx"><span style="color: #888; font-size: 0.9rem;">Nginx</span></span>
       <span style="display: flex; align-items: center;"><img src="/icons/traefik.svg" alt="Traefik" width="20" height="20" style="margin-right: 4px;" title="Traefik"><span style="color: #888; font-size: 0.9rem;">Traefik</span></span>
-      <span style="display: flex; align-items: center;"><img src="/icons/vault.svg" alt="Vault" width="20" height="20" style="margin-right: 4px;" title="Vault"><span style="color: #888; font-size: 0.9rem;">Vault</span></span>
     </div>
     <!-- Observability & Monitoring -->
     <div style="margin: 1rem 0 0.5rem 0;">
@@ -93,6 +92,7 @@ I support the Dev team on the OpenShift deployment platform by applying GitOps p
     <div style="display: flex; flex-wrap: wrap; gap: 10px;">
       <span style="display: flex; align-items: center;"><img src="/icons/vault.svg" alt="Vault" width="20" height="20" style="margin-right: 4px;" title="Vault"><span style="color: #888; font-size: 0.9rem;">Vault</span></span>
       <span style="display: flex; align-items: center;"><img src="/icons/gpg.svg" alt="GNU Privacy Guard" width="20" height="20" style="margin-right: 4px;" title="GNU Privacy Guard"><span style="color: #888; font-size: 0.9rem;">GNU Privacy Guard</span></span>
+      <span style="display: flex; align-items: center;"><img src="/icons/clamav.png" alt="ClamAV" width="20" height="20" style="margin-right: 4px;" title="ClamAV"><span style="color: #888; font-size: 0.9rem;">ClamAV</span></span>
     </div>
   </div>
 </div>

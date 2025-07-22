@@ -9,7 +9,7 @@ Je participe aux activités d’accompagnement de l’équipe Dev sur la platefo
   <div style="flex: 1 1 300px;">
     <!-- Programmation -->
     <div style="margin-bottom: 0.5rem;">
-      <strong style="color: #444;">👨‍💻 Programming</strong>
+      <strong style="color: #444;">👨‍💻 Programmation</strong>
     </div>
     <div style="display: flex; flex-wrap: wrap; gap: 10px;">
       <span style="display: flex; align-items: center;"><img src="/icons/python.svg" alt="Python" width="20" height="20" style="margin-right: 4px;" title="Python"><span style="color: #888; font-size: 0.9rem;">Python</span></span>
@@ -21,7 +21,7 @@ Je participe aux activités d’accompagnement de l’équipe Dev sur la platefo
     </div>
     <!-- Conteneurisation et virtualisation -->
     <div style="margin: 1rem 0 0.5rem 0;">
-      <strong style="color: #444;">📦 Containerization & Virtualization</strong>
+      <strong style="color: #444;">📦 Conteneurisation & Virtualisation</strong>
     </div>
     <div style="display: flex; flex-wrap: wrap; gap: 10px;">
       <span style="display: flex; align-items: center;"><img src="/icons/docker.svg" alt="Docker" width="20" height="20" style="margin-right: 4px;" title="Docker"><span style="color: #888; font-size: 0.9rem;">Docker</span></span>
@@ -35,7 +35,7 @@ Je participe aux activités d’accompagnement de l’équipe Dev sur la platefo
     </div>
     <!-- Protocoles et technologies réseau -->
     <div style="margin: 1rem 0 0.5rem 0;">
-      <strong style="color: #444;">🌐 Networking & Load Balancing</strong>
+      <strong style="color: #444;">🌐 Réseau & Répartition de charge</strong>
     </div>
     <div style="display: flex; flex-wrap: wrap; gap: 10px;">
       <span style="display: flex; align-items: center;"><img src="/icons/haproxy.svg" alt="HAProxy" width="20" height="20" style="margin-right: 4px;" title="HAProxy"><span style="color: #888; font-size: 0.9rem;">HAProxy</span></span>
@@ -44,7 +44,7 @@ Je participe aux activités d’accompagnement de l’équipe Dev sur la platefo
     </div>
     <!-- Observability & Monitoring -->
     <div style="margin: 1rem 0 0.5rem 0;">
-      <strong style="color: #444;">📊 Observability & Monitoring</strong>
+      <strong style="color: #444;">📊 Observabilité & Supervision</strong>
     </div>
     <div style="display: flex; flex-wrap: wrap; gap: 10px;">
       <span style="display: flex; align-items: center;"><img src="/icons/grafana.svg" alt="Grafana" width="20" height="20" style="margin-right: 4px;" title="Grafana"><span style="color: #888; font-size: 0.9rem;">Grafana</span></span>
@@ -59,7 +59,7 @@ Je participe aux activités d’accompagnement de l’équipe Dev sur la platefo
   <div style="flex: 1 1 300px;">
     <!-- Automatisation & orchestration -->
     <div style="margin-bottom: 0.5rem;">
-      <strong style="color: #444;">🤖 Automation & Orchestration</strong>
+      <strong style="color: #444;">🤖 Automatisation & Orchestration</strong>
     </div>
     <div style="display: flex; flex-wrap: wrap; gap: 10px;">
       <span style="display: flex; align-items: center;"><img src="/icons/ansible.svg" alt="Ansible" width="20" height="20" style="margin-right: 4px;" title="Ansible"><span style="color: #888; font-size: 0.9rem;">Ansible</span></span>
@@ -74,7 +74,7 @@ Je participe aux activités d’accompagnement de l’équipe Dev sur la platefo
     </div>
     <!-- Systèmes d'exploitation -->
     <div style="margin: 1rem 0 0.5rem 0;">
-      <strong style="color: #444;">💻 Operating Systems</strong>
+      <strong style="color: #444;">💻 Systèmes d'exploitation</strong>
     </div>
     <div style="display: flex; flex-wrap: wrap; gap: 10px;">
       <span style="display: flex; align-items: center;"><img src="/icons/redhat.svg" alt="Red Hat" width="20" height="20" style="margin-right: 4px;" title="Red Hat"><span style="color: #888; font-size: 0.9rem;">Red Hat</span></span>
@@ -87,11 +87,12 @@ Je participe aux activités d’accompagnement de l’équipe Dev sur la platefo
     </div>
     <!-- Security & Secrets Management -->
     <div style="margin: 1rem 0 0.5rem 0;">
-      <strong style="color: #444;">🔐 Security & Secrets Management</strong>
+      <strong style="color: #444;">🔐 Sécurité & Gestion des secrets</strong>
     </div>
     <div style="display: flex; flex-wrap: wrap; gap: 10px;">
       <span style="display: flex; align-items: center;"><img src="/icons/vault.svg" alt="Vault" width="20" height="20" style="margin-right: 4px;" title="Vault"><span style="color: #888; font-size: 0.9rem;">Vault</span></span>
       <span style="display: flex; align-items: center;"><img src="/icons/gpg.svg" alt="GNU Privacy Guard" width="20" height="20" style="margin-right: 4px;" title="GNU Privacy Guard"><span style="color: #888; font-size: 0.9rem;">GNU Privacy Guard</span></span>
+      <span style="display: flex; align-items: center;"><img src="/icons/clamav.png" alt="ClamAV" width="20" height="20" style="margin-right: 4px;" title="ClamAV"><span style="color: #888; font-size: 0.9rem;">ClamAV</span></span>
     </div>
   </div>
 </div>

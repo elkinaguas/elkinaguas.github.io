@@ -105,7 +105,7 @@ I support the Dev team on the OpenShift deployment platform by applying GitOps p
 <!-- ################################# SFR ################################# -->
 <!-- Title -->
 <h1 style="display: flex; align-items: center; margin-bottom: 1rem;">
-  <img src="/icons/sfr.svg" alt="Orange Business" width="32" height="32" style="margin-right: 8px;">
+  <img src="/icons/sfr.svg" alt="SFR" width="32" height="32" style="margin-right: 8px;">
   DevOps Engineer
 </h1>
 

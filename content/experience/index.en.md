@@ -130,6 +130,7 @@ I contribute to the development and automation of deployment environments and th
     <div style="display: flex; flex-wrap: wrap; gap: 10px;">
       <span style="display: flex; align-items: center;"><img src="/icons/python.svg" alt="Python" width="20" height="20" style="margin-right: 4px;" title="Python"><span style="color: #888; font-size: 0.9rem;">Python</span></span>
       <span style="display: flex; align-items: center;"><img src="/icons/bash.svg" alt="Bash" width="20" height="20" style="margin-right: 4px;" title="Bash"><span style="color: #888; font-size: 0.9rem;">Bash</span></span>
+      <span style="display: flex; align-items: center;"><img src="/icons/powershell.svg" alt="Bash" width="20" height="20" style="margin-right: 4px;" title="PowerShell"><span style="color: #888; font-size: 0.9rem;">PowerShell</span></span>
       <span style="display: flex; align-items: center;"><img src="/icons/fastapi.svg" alt="FastAPI" width="20" height="20" style="margin-right: 4px;" title="FastAPI"><span style="color: #888; font-size: 0.9rem;">FastAPI</span></span>
     </div>
     <!-- Conteneurisation et virtualisation -->
@@ -140,16 +141,13 @@ I contribute to the development and automation of deployment environments and th
       <span style="display: flex; align-items: center;"><img src="/icons/docker.svg" alt="Docker" width="20" height="20" style="margin-right: 4px;" title="Docker"><span style="color: #888; font-size: 0.9rem;">Docker</span></span>
       <span style="display: flex; align-items: center;"><img src="/icons/vagrant.svg" alt="Vagrant" width="20" height="20" style="margin-right: 4px;" title="Vagrant"><span style="color: #888; font-size: 0.9rem;">Vagrant</span></span>
       <span style="display: flex; align-items: center;"><img src="/icons/vmware.svg" alt="VMware" width="20" height="20" style="margin-right: 4px;" title="VMware"><span style="color: #888; font-size: 0.9rem;">VMware</span></span>
-      <span style="display: flex; align-items: center;"><img src="/icons/vsphere.svg" alt="vSphere" width="20" height="20" style="margin-right: 4px;" title="vSphere"><span style="color: #888; font-size: 0.9rem;">vSphere</span></span>
     </div>
     <!-- Protocoles et technologies réseau -->
     <div style="margin: 1rem 0 0.5rem 0;">
       <strong style="color: #444;">🌐 Networking & Load Balancing</strong>
     </div>
     <div style="display: flex; flex-wrap: wrap; gap: 10px;">
-      <span style="display: flex; align-items: center;"><img src="/icons/haproxy.svg" alt="HAProxy" width="20" height="20" style="margin-right: 4px;" title="HAProxy"><span style="color: #888; font-size: 0.9rem;">HAProxy</span></span>
-      <span style="display: flex; align-items: center;"><img src="/icons/traefik.svg" alt="Traefik" width="20" height="20" style="margin-right: 4px;" title="Traefik"><span style="color: #888; font-size: 0.9rem;">Traefik</span></span>
-      <span style="display: flex; align-items: center;"><img src="/icons/vault.svg" alt="Vault" width="20" height="20" style="margin-right: 4px;" title="Vault"><span style="color: #888; font-size: 0.9rem;">Vault</span></span>
+      <span style="display: flex; align-items: center;"><img src="/icons/nginx.svg" alt="Vault" width="20" height="20" style="margin-right: 4px;" title="Nginx"><span style="color: #888; font-size: 0.9rem;">Nginx</span></span>
     </div>
   </div>
 
@@ -160,9 +158,7 @@ I contribute to the development and automation of deployment environments and th
       <strong style="color: #444;">🤖 Automation & Orchestration</strong>
     </div>
     <div style="display: flex; flex-wrap: wrap; gap: 10px;">
-      <span style="display: flex; align-items: center;"><img src="/icons/ansible.svg" alt="Ansible" width="20" height="20" style="margin-right: 4px;" title="Ansible"><span style="color: #888; font-size: 0.9rem;">Ansible</span></span>
-      <span style="display: flex; align-items: center;"><img src="/icons/argocd.svg" alt="Argo CD" width="20" height="20" style="margin-right: 4px;" title="Argo CD"><span style="color: #888; font-size: 0.9rem;">Argo CD</span></span>
-      <span style="display: flex; align-items: center;"><img src="/icons/packer.svg" alt="Packer" width="20" height="20" style="margin-right: 4px;" title="Packer"><span style="color: #888; font-size: 0.9rem;">Packer</span></span>
+      <span style="display: flex; align-items: center;"><img src="/icons/saltstack.svg" alt="Ansible" width="20" height="20" style="margin-right: 4px;" title="SaltStack"><span style="color: #888; font-size: 0.9rem;">SaltStack</span></span>
       <span style="display: flex; align-items: center;"><img src="/icons/gitlab.svg" alt="GitLab" width="20" height="20" style="margin-right: 4px;" title="GitLab"><span style="color: #888; font-size: 0.9rem;">GitLab</span></span>
     </div>
     <!-- Systèmes d'exploitation -->
@@ -170,8 +166,13 @@ I contribute to the development and automation of deployment environments and th
       <strong style="color: #444;">💻 Operating Systems</strong>
     </div>
     <div style="display: flex; flex-wrap: wrap; gap: 10px;">
-      <span style="display: flex; align-items: center;"><img src="/icons/linux.svg" alt="Linux" width="20" height="20" style="margin-right: 4px;" title="Linux"><span style="color: #888; font-size: 0.9rem;">Linux</span></span>
       <span style="display: flex; align-items: center;"><img src="/icons/redhat.svg" alt="Red Hat" width="20" height="20" style="margin-right: 4px;" title="Red Hat"><span style="color: #888; font-size: 0.9rem;">Red Hat</span></span>
+      <span style="display: flex; align-items: center;"><img src="/icons/centos.svg" alt="CentOS" width="20" height="20" style="margin-right: 4px;" title="CentOS"><span style="color: #888; font-size: 0.9rem;">CentOS</span></span>
+      <span style="display: flex; align-items: center;"><img src="/icons/rockylinux.svg" alt="Rocky Linux" width="20" height="20" style="margin-right: 4px;" title="Rocky Minux"><span style="color: #888; font-size: 0.9rem;">Rocky Linux</span></span>
+      <span style="display: flex; align-items: center;"><img src="/icons/almalinux.svg" alt="AlmaLinux" width="20" height="20" style="margin-right: 4px;" title="AlmaLinux"><span style="color: #888; font-size: 0.9rem;">AlmaLinux</span></span>
+      <span style="display: flex; align-items: center;"><img src="/icons/ubuntu.svg" alt="Ubuntu" width="20" height="20" style="margin-right: 4px;" title="Ubuntu"><span style="color: #888; font-size: 0.9rem;">Ubuntu</span></span>
+      <span style="display: flex; align-items: center;"><img src="/icons/debian.svg" alt="Debian" width="20" height="20" style="margin-right: 4px;" title="Debian"><span style="color: #888; font-size: 0.9rem;">Debian</span></span>
+      <span style="display: flex; align-items: center;"><img src="/icons/windows.svg" alt="Windows" width="20" height="20" style="margin-right: 4px;" title="Windows"><span style="color: #888; font-size: 0.9rem;">Windows</span></span>
     </div>
     <!-- Security & Secrets Management -->
     <div style="margin: 1rem 0 0.5rem 0;">
@@ -225,8 +226,8 @@ I contribute to research activities on Event‑Driven Network Automation (EDNA),
       <strong style="color: #444;">🌐 Networking & Load Balancing</strong>
     </div>
     <div style="display: flex; flex-wrap: wrap; gap: 10px;">
-      <span style="display: flex; align-items: center;"><img src="/icons/haproxy.svg" alt="HAProxy" width="20" height="20" style="margin-right: 4px;" title="HAProxy"><span style="color: #888; font-size: 0.9rem;">HAProxy</span></span>
-      <span style="display: flex; align-items: center;"><img src="/icons/traefik.svg" alt="Traefik" width="20" height="20" style="margin-right: 4px;" title="Traefik"><span style="color: #888; font-size: 0.9rem;">Traefik</span></span>
+      <span style="display: flex; align-items: center;"><img src="/icons/cisco.svg" alt="Cisco" width="20" height="20" style="margin-right: 4px;" title="Cisco"><span style="color: #888; font-size: 0.9rem;">Cisco</span></span>
+      <span style="display: flex; align-items: center;"><img src="/icons/junos.png" alt="Traefik" width="20" height="20" style="margin-right: 4px;" title="JunOS"><span style="color: #888; font-size: 0.9rem;">JunOS</span></span>
     </div>
   </div>
 

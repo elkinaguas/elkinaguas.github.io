@@ -224,14 +224,15 @@ Je contribue aux activités de recherche sur Event‑Driven Network Automation (
     <div style="display: flex; flex-wrap: wrap; gap: 10px;">
       <span style="display: flex; align-items: center;"><img src="/icons/docker.svg" alt="Docker" width="20" height="20" style="margin-right: 4px;" title="Docker"><span style="color: #888; font-size: 0.9rem;">Docker</span></span>
       <span style="display: flex; align-items: center;"><img src="/icons/vagrant.svg" alt="Vagrant" width="20" height="20" style="margin-right: 4px;" title="Vagrant"><span style="color: #888; font-size: 0.9rem;">Vagrant</span></span>
+      <span style="display: flex; align-items: center;"><img src="/icons/virtualbox.png" alt="VirtualBox" width="20" height="20" style="margin-right: 4px;" title="VirtualBox"><span style="color: #888; font-size: 0.9rem;">VirtualBox</span></span>
     </div>
     <!-- Protocoles et technologies réseau -->
     <div style="margin: 1rem 0 0.5rem 0;">
       <strong style="color: #444;">🌐 Réseau & Répartition de charge</strong>
     </div>
     <div style="display: flex; flex-wrap: wrap; gap: 10px;">
-      <span style="display: flex; align-items: center;"><img src="/icons/haproxy.svg" alt="HAProxy" width="20" height="20" style="margin-right: 4px;" title="HAProxy"><span style="color: #888; font-size: 0.9rem;">HAProxy</span></span>
-      <span style="display: flex; align-items: center;"><img src="/icons/traefik.svg" alt="Traefik" width="20" height="20" style="margin-right: 4px;" title="Traefik"><span style="color: #888; font-size: 0.9rem;">Traefik</span></span>
+      <span style="display: flex; align-items: center;"><img src="/icons/cisco.svg" alt="Cisco" width="20" height="20" style="margin-right: 4px;" title="Cisco"><span style="color: #888; font-size: 0.9rem;">Cisco</span></span>
+      <span style="display: flex; align-items: center;"><img src="/icons/junos.png" alt="Traefik" width="20" height="20" style="margin-right: 4px;" title="JunOS"><span style="color: #888; font-size: 0.9rem;">JunOS</span></span>
     </div>
   </div>
 

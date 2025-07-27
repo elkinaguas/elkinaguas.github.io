@@ -1,0 +1,37 @@
+[year_singular]
+other = "year"
+[year_plural]
+other = "years"
+[month_singular]
+other = "month"
+[month_plural]
+other = "months"
+[and]
+other = "and"
+[current]
+other = "Current"
+
+[january]
+other = "January"
+[february]
+other = "February"
+[march]
+other = "March"
+[april]
+other = "April"
+[may]
+other = "May"
+[june]
+other = "June"
+[july]
+other = "July"
+[august]
+other = "August"
+[september]
+other = "September"
+[october]
+other = "October"
+[november]
+other = "November"
+[december]
+other = "December"

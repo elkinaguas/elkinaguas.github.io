@@ -1,0 +1,57 @@
+{{/* jobduration shortcode: calculates duration between two dates with pluralization and i18n */}}
+
+{{ $start := time (.Get "start") }}
+{{ $endParam := lower (.Get "end") }}
+{{ $end := time "1970-01-01" }} {{/* dummy init */}}
+
+{{ if or (eq $endParam "actuel") (eq $endParam "current") (eq $endParam "actual") }}
+  {{ $end = now }}
+{{ else }}
+  {{ $end = time $endParam }}
+{{ end }}
+
+{{ $years := sub ($end.Year) ($start.Year) }}
+{{ $months := sub ($end.Month) ($start.Month) }}
+
+{{ if lt $months 0 }}
+  {{ $years = sub $years 1 }}
+  {{ $months = add $months 12 }}
+{{ end }}
+
+{{ $monthsList := slice
+  "january" "february" "march" "april" "may" "june"
+  "july" "august" "september" "october" "november" "december"
+}}
+
+{{ $startMonthKey := index $monthsList (sub $start.Month 1) }}
+{{ $endMonthKey := index $monthsList (sub $end.Month 1) }}
+
+{{ $startMonthName := T $startMonthKey }}
+{{ $endMonthName := T $endMonthKey }}
+
+<span style="color: #999; font-size: 0.9rem;">
+  {{ $startMonthName }} {{ $start.Year }} –
+  {{ if or (eq $endParam "actuel") (eq $endParam "current") (eq $endParam "actual") }}
+    {{ T "current" }}
+  {{ else }}
+    {{ $endMonthName }} {{ $end.Year }}
+  {{ end }}
+
+  (
+  {{ $years }}
+  {{ if eq $years 1 }}
+    {{ T "year_singular" }}
+  {{ else }}
+    {{ T "year_plural" }}
+  {{ end }}
+
+  {{ if gt $months 0 }}
+    {{ T "and" }} {{ $months }}
+    {{ if eq $months 1 }}
+      {{ T "month_singular" }}
+    {{ else }}
+      {{ T "month_plural" }}
+    {{ end }}
+  {{ end }}
+  )
+</span>

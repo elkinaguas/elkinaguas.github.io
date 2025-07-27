@@ -1,0 +1,53 @@
+/* Add flags to language selector */
+.lang-switch a[href*="/fr/"]::before,
+.lang-switch span[class*="fr"]::before {
+    content: "🇫🇷 ";
+}
+
+.lang-switch a[href*="/es/"]::before,
+.lang-switch span[class*="es"]::before {
+    content: "🇨🇴 ";
+}
+
+/* For English (default language) */
+.lang-switch a:not([href*="/fr/"]):not([href*="/es/"])::before,
+.lang-switch span:not([class*="fr"]):not([class*="es"])::before {
+    content: "🇺🇸 ";
+}
+
+/* Better hover effect */
+.lang-switch a {
+    padding: 2px 2px;
+    border-radius: 4px;
+    transition: all 0.2s ease;
+    text-decoration: none;
+}
+
+.lang-switch a:hover {
+    background-color: #007acc;
+    color: white;
+    transform: scale(1.15);
+}
+
+.lang-switch a:hover::before {
+    transform: scale(1.2);
+}
+
+/* Alternative hover effect - background change */
+.lang-switch a:hover {
+    background-color: rgba(0, 0, 0, 0.1);
+}
+
+/* For dark mode */
+@media (prefers-color-scheme: dark) {
+    .lang-switch a:hover {
+        background-color: rgba(255, 255, 255, 0.1);
+    }
+}
+
+/* Reduce spacing between language separator */
+.lang-switch .lang-separator {
+    margin: 0 2px;
+}
+
+

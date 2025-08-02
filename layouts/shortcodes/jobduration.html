@@ -38,20 +38,30 @@
   {{ end }}
 
   (
-  {{ $years }}
-  {{ if eq $years 1 }}
-    {{ T "year_singular" }}
-  {{ else }}
-    {{ T "year_plural" }}
-  {{ end }}
-
-  {{ if gt $months 0 }}
-    {{ T "and" }} {{ $months }}
+  {{ if gt $years 0 }}
+    {{ $years }}
+    {{ if eq $years 1 }}
+      {{ T "year_singular" }}
+    {{ else }}
+      {{ T "year_plural" }}
+    {{ end }}
+    {{ if gt $months 0 }}
+      {{ T "and" }} {{ $months }}
+      {{ if eq $months 1 }}
+        {{ T "month_singular" }}
+      {{ else }}
+        {{ T "month_plural" }}
+      {{ end }}
+    {{ end }}
+  {{ else if gt $months 0 }}
+    {{ $months }}
     {{ if eq $months 1 }}
       {{ T "month_singular" }}
     {{ else }}
       {{ T "month_plural" }}
     {{ end }}
+  {{ else }}
+    {{ T "less_than_a_month" }}
   {{ end }}
   )
 </span>

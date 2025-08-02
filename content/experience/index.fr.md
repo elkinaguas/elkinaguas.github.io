@@ -265,3 +265,74 @@ Je contribue aux activités de recherche sur Event‑Driven Network Automation (
   </div>
 </div>
 
+
+<!-- ################################# STAGE ORANGE INNOVATION ################################# -->
+<!-- Titre -->
+<h1 style="display: flex; align-items: center; margin-bottom: 1rem;">
+  <img src="/icons/orange.svg" alt="Orange Innovation" width="32" height="32" style="margin-right: 8px;">
+  Stagiaire ingénieur de recherche
+</h1>
+
+<!-- Dates -->
+<p style="color: #888; font-size: 0.9rem; margin-top: -0.5rem;">
+  Orange Innovation • {{< jobduration start="2018-03-01" end="2018-09-30" >}}
+</p>
+
+
+<!-- Description -->
+<p style="display: flex; align-items: center; flex-wrap: wrap; text-align: justify;">
+Chargé d’étudier la faisabilité de l’automatisation de deux scénarios réalistes d’événements BGP courants : le détournement BGP (BGP hijacking) et l’équilibrage de charge (load balancing).
+</p>
+
+<div style="display: flex; flex-wrap: wrap; gap: 2rem;">
+
+  <!-- Column 1 -->
+  <div style="flex: 1 1 300px;">
+    <!-- Programmation -->
+    <div style="margin-bottom: 0.5rem;">
+      <strong style="color: #444;">👨‍💻 Programmation</strong>
+    </div>
+    <div style="display: flex; flex-wrap: wrap; gap: 10px;">
+      <span style="display: flex; align-items: center;"><img src="/icons/python.svg" alt="Python" width="20" height="20" style="margin-right: 4px;" title="Python"><span style="color: #888; font-size: 0.9rem;">Python</span></span>
+      <span style="display: flex; align-items: center;"><img src="/icons/bash.svg" alt="Bash" width="20" height="20" style="margin-right: 4px;" title="Bash"><span style="color: #888; font-size: 0.9rem;">Bash</span></span>
+    </div>
+    <!-- Conteneurisation et virtualisation -->
+    <div style="margin: 1rem 0 0.5rem 0;">
+      <strong style="color: #444;">📦 Conteneurisation & Virtualisation</strong>
+    </div>
+    <div style="display: flex; flex-wrap: wrap; gap: 10px;">
+      <span style="display: flex; align-items: center;"><img src="/icons/docker.svg" alt="Docker" width="20" height="20" style="margin-right: 4px;" title="Docker"><span style="color: #888; font-size: 0.9rem;">Docker</span></span>
+      <span style="display: flex; align-items: center;"><img src="/icons/vagrant.svg" alt="Vagrant" width="20" height="20" style="margin-right: 4px;" title="Vagrant"><span style="color: #888; font-size: 0.9rem;">Vagrant</span></span>
+      <span style="display: flex; align-items: center;"><img src="/icons/virtualbox.png" alt="VirtualBox" width="20" height="20" style="margin-right: 4px;" title="VirtualBox"><span style="color: #888; font-size: 0.9rem;">VirtualBox</span></span>
+    </div>
+    <!-- Protocoles et technologies réseau -->
+    <div style="margin: 1rem 0 0.5rem 0;">
+      <strong style="color: #444;">🌐 Réseau & Répartition de charge</strong>
+    </div>
+    <div style="display: flex; flex-wrap: wrap; gap: 10px;">
+      <span style="display: flex; align-items: center;"><img src="/icons/cisco.svg" alt="Cisco" width="20" height="20" style="margin-right: 4px;" title="Cisco"><span style="color: #888; font-size: 0.9rem;">Cisco</span></span>
+      <span style="display: flex; align-items: center;"><img src="/icons/junos.png" alt="Traefik" width="20" height="20" style="margin-right: 4px;" title="JunOS"><span style="color: #888; font-size: 0.9rem;">JunOS</span></span>
+    </div>
+  </div>
+
+  <!-- Column 2 -->
+  <div style="flex: 1 1 300px;">
+    <!-- Automatisation & orchestration -->
+    <div style="margin-bottom: 0.5rem;">
+      <strong style="color: #444;">🤖 Automatisation & Orchestration</strong>
+    </div>
+    <div style="display: flex; flex-wrap: wrap; gap: 10px;">
+      <span style="display: flex; align-items: center;"><img src="/icons/gitlab.svg" alt="GitLab" width="20" height="20" style="margin-right: 4px;" title="GitLab"><span style="color: #888; font-size: 0.9rem;">GitLab</span></span>
+      <span style="display: flex; align-items: center;"><img src="/icons/github.svg" alt="GitLab" width="20" height="20" style="margin-right: 4px;" title="GitHub"><span style="color: #888; font-size: 0.9rem;">GitHub</span></span>
+    </div>
+    <!-- Systèmes d'exploitation -->
+    <div style="margin: 1rem 0 0.5rem 0;">
+      <strong style="color: #444;">💻 Systèmes d'exploitation</strong>
+    </div>
+    <div style="display: flex; flex-wrap: wrap; gap: 10px;">
+      <span style="display: flex; align-items: center;"><img src="/icons/centos.svg" alt="Red Hat" width="20" height="20" style="margin-right: 4px;" title="CentOS"><span style="color: #888; font-size: 0.9rem;">CentOS</span></span>
+      <span style="display: flex; align-items: center;"><img src="/icons/ubuntu.svg" alt="Red Hat" width="20" height="20" style="margin-right: 4px;" title="Ubuntu"><span style="color: #888; font-size: 0.9rem;">Ubuntu</span></span>
+      <span style="display: flex; align-items: center;"><img src="/icons/debian.svg" alt="Red Hat" width="20" height="20" style="margin-right: 4px;" title="Debian"><span style="color: #888; font-size: 0.9rem;">Debian</span></span>
+    </div>
+  </div>
+</div>

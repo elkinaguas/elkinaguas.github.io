@@ -16,7 +16,7 @@ menu:
 
 <!-- Dates -->
 <p style="color: #888; font-size: 0.9rem; margin-top: -0.5rem;">
-  Orange Business • {{< jobduration start="2023-06-01" end="actuel" >}}
+  Orange Business • {{< jobduration start="2023-06-26" end="actuel" >}}
 </p>
 
 <!-- Description -->
@@ -111,7 +111,7 @@ I support the Dev team on the OpenShift deployment platform by applying GitOps p
 
 <!-- Dates -->
 <p style="color: #888; font-size: 0.9rem; margin-top: -0.5rem;">
-  SFR • {{< jobduration start="2022-01-01" end="2023-05-31" >}}
+  SFR • {{< jobduration start="2022-01-01" end="2023-06-23" >}}
 </p>
 
 <!-- Description -->
@@ -193,7 +193,7 @@ I contribute to the development and automation of deployment environments and th
 
 <!-- Dates -->
 <p style="color: #888; font-size: 0.9rem; margin-top: -0.5rem;">
-  Orange Innovation • {{< jobduration start="2018-10-01" end="2021-12-31" >}}
+  Orange Innovation • {{< jobduration start="2018-10-01" end="2021-11-31" >}}
 </p>
 
 <!-- Description -->

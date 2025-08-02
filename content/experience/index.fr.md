@@ -196,7 +196,7 @@ Je contribue aux activités de développement et automatisation des environnemen
 
 <!-- Dates -->
 <p style="color: #888; font-size: 0.9rem; margin-top: -0.5rem;">
-  Orange Innovation • {{< jobduration start="2018-10-01" end="2021-11-31" >}}
+  Orange Innovation • {{< jobduration start="2018-10-01" end="2021-11-30" >}}
 </p>
 
 

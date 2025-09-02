@@ -3,8 +3,6 @@
 Je participe aux activités d’accompagnement de l’équipe Dev sur la plateforme de déploiement OpenShift, en utilisant des pratiques GitOps avec l’outil ArgoCD, tout en assurant la fiabilité et la sécurité de leur application. Je m’occupe de l’automatisation de processus en utilisant AWX (Ansible), GitLab CI/CD et Python.
 </p>
 
-[Ouvrir le CV](/files/CV_Français.pdf)
-
 <div style="display: flex; flex-wrap: wrap; gap: 2rem;">
 
   <!-- Column 1 -->

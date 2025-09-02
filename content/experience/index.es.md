@@ -238,18 +238,17 @@ Contribuyo a actividades de investigación sobre Event‑Driven Network Automati
       <strong style="color: #444;">🤖 Automatización y Orquestación</strong>
     </div>
     <div style="display: flex; flex-wrap: wrap; gap: 10px;">
-      <span style="display: flex; align-items: center;"><img src="/icons/ansible.svg" alt="Ansible" width="20" height="20" style="margin-right: 4px;" title="Ansible"><span style="color: #888; font-size: 0.9rem;">Ansible</span></span>
-      <span style="display: flex; align-items: center;"><img src="/icons/argocd.svg" alt="Argo CD" width="20" height="20" style="margin-right: 4px;" title="Argo CD"><span style="color: #888; font-size: 0.9rem;">Argo CD</span></span>
-      <span style="display: flex; align-items: center;"><img src="/icons/packer.svg" alt="Packer" width="20" height="20" style="margin-right: 4px;" title="Packer"><span style="color: #888; font-size: 0.9rem;">Packer</span></span>
       <span style="display: flex; align-items: center;"><img src="/icons/gitlab.svg" alt="GitLab" width="20" height="20" style="margin-right: 4px;" title="GitLab"><span style="color: #888; font-size: 0.9rem;">GitLab</span></span>
+      <span style="display: flex; align-items: center;"><img src="/icons/github.svg" alt="GitLab" width="20" height="20" style="margin-right: 4px;" title="GitHub"><span style="color: #888; font-size: 0.9rem;">GitHub</span></span>
     </div>
     <!-- Systèmes d'exploitation -->
     <div style="margin: 1rem 0 0.5rem 0;">
       <strong style="color: #444;">💻 Sistemas Operativos</strong>
     </div>
     <div style="display: flex; flex-wrap: wrap; gap: 10px;">
-      <span style="display: flex; align-items: center;"><img src="/icons/linux.svg" alt="Linux" width="20" height="20" style="margin-right: 4px;" title="Linux"><span style="color: #888; font-size: 0.9rem;">Linux</span></span>
-      <span style="display: flex; align-items: center;"><img src="/icons/redhat.svg" alt="Red Hat" width="20" height="20" style="margin-right: 4px;" title="Red Hat"><span style="color: #888; font-size: 0.9rem;">Red Hat</span></span>
+      <span style="display: flex; align-items: center;"><img src="/icons/centos.svg" alt="Red Hat" width="20" height="20" style="margin-right: 4px;" title="CentOS"><span style="color: #888; font-size: 0.9rem;">CentOS</span></span>
+      <span style="display: flex; align-items: center;"><img src="/icons/ubuntu.svg" alt="Red Hat" width="20" height="20" style="margin-right: 4px;" title="Ubuntu"><span style="color: #888; font-size: 0.9rem;">Ubuntu</span></span>
+      <span style="display: flex; align-items: center;"><img src="/icons/debian.svg" alt="Red Hat" width="20" height="20" style="margin-right: 4px;" title="Debian"><span style="color: #888; font-size: 0.9rem;">Debian</span></span>
     </div>
     <!-- Seguridad y Gestión de secretos -->
     <div style="margin: 1rem 0 0.5rem 0;">

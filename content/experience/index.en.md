@@ -247,8 +247,9 @@ I contribute to research activities on Event‑Driven Network Automation (EDNA),
       <strong style="color: #444;">💻 Operating Systems</strong>
     </div>
     <div style="display: flex; flex-wrap: wrap; gap: 10px;">
-      <span style="display: flex; align-items: center;"><img src="/icons/linux.svg" alt="Linux" width="20" height="20" style="margin-right: 4px;" title="Linux"><span style="color: #888; font-size: 0.9rem;">Linux</span></span>
-      <span style="display: flex; align-items: center;"><img src="/icons/redhat.svg" alt="Red Hat" width="20" height="20" style="margin-right: 4px;" title="Red Hat"><span style="color: #888; font-size: 0.9rem;">Red Hat</span></span>
+      <span style="display: flex; align-items: center;"><img src="/icons/centos.svg" alt="Red Hat" width="20" height="20" style="margin-right: 4px;" title="CentOS"><span style="color: #888; font-size: 0.9rem;">CentOS</span></span>
+      <span style="display: flex; align-items: center;"><img src="/icons/ubuntu.svg" alt="Red Hat" width="20" height="20" style="margin-right: 4px;" title="Ubuntu"><span style="color: #888; font-size: 0.9rem;">Ubuntu</span></span>
+      <span style="display: flex; align-items: center;"><img src="/icons/debian.svg" alt="Red Hat" width="20" height="20" style="margin-right: 4px;" title="Debian"><span style="color: #888; font-size: 0.9rem;">Debian</span></span>
     </div>
     <!-- Security & Secrets Management -->
     <div style="margin: 1rem 0 0.5rem 0;">

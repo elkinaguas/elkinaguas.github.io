@@ -240,6 +240,7 @@ Contribuyo a actividades de investigación sobre Event‑Driven Network Automati
     <div style="display: flex; flex-wrap: wrap; gap: 10px;">
       <span style="display: flex; align-items: center;"><img src="/icons/gitlab.svg" alt="GitLab" width="20" height="20" style="margin-right: 4px;" title="GitLab"><span style="color: #888; font-size: 0.9rem;">GitLab</span></span>
       <span style="display: flex; align-items: center;"><img src="/icons/github.svg" alt="GitLab" width="20" height="20" style="margin-right: 4px;" title="GitHub"><span style="color: #888; font-size: 0.9rem;">GitHub</span></span>
+      <span style="display: flex; align-items: center;"><img src="/icons/saltstack.svg" alt="Ansible" width="20" height="20" style="margin-right: 4px;" title="SaltStack"><span style="color: #888; font-size: 0.9rem;">SaltStack</span></span>
     </div>
     <!-- Systèmes d'exploitation -->
     <div style="margin: 1rem 0 0.5rem 0;">

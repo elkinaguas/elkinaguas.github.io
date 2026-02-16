@@ -98,7 +98,7 @@ fontawesome = true
 [params.profileMode]
 enabled = true
 title = "Elkin Aguas"
-subtitle = 'DevOps Engineer at {{< orange >}}Orange Business{{< /orange >}}'
+subtitle = 'Site Reliability Engineer at {{< ovh >}}OVHcloud{{< /ovh >}}'
 imageUrl = "./img/me.jpg"
 imageWidth = 120
 imageHeight = 120

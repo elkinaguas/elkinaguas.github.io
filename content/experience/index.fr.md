@@ -16,7 +16,7 @@ menu:
 
 <!-- Dates -->
 <p style="color: #888; font-size: 0.9rem; margin-top: -0.5rem;">
-  OVHcloud • {{< jobduration start="2026-02-23" end="actuel" >}}
+  <span style="color: #000E9C; font-weight: 600;">OVHcloud</span> • {{< jobduration start="2026-02-23" end="actuel" >}}
 </p>
 
 <div style="display: flex; flex-wrap: wrap; gap: 2rem;">
@@ -64,7 +64,7 @@ menu:
 
 <!-- Dates -->
 <p style="color: #888; font-size: 0.9rem; margin-top: -0.5rem;">
-  Orange Business • {{< jobduration start="2023-06-26" end="2026-02-12" >}}
+  <span style="color: #FF7900; font-weight: 600;">Orange Business</span> • {{< jobduration start="2023-06-26" end="2026-02-12" >}}
 </p>
 
 <!-- Description -->
@@ -161,7 +161,7 @@ menu:
 
 <!-- Dates -->
 <p style="color: #888; font-size: 0.9rem; margin-top: -0.5rem;">
-  SFR • {{< jobduration start="2022-01-01" end="2023-06-23" >}}
+  <span style="color: #E2001A; font-weight: 600;">SFR</span> • {{< jobduration start="2022-01-01" end="2023-06-23" >}}
 </p>
 
 <!-- Description -->
@@ -244,7 +244,7 @@ Je contribue aux activités de développement et automatisation des environnemen
 
 <!-- Dates -->
 <p style="color: #888; font-size: 0.9rem; margin-top: -0.5rem;">
-  Orange Innovation • {{< jobduration start="2018-10-01" end="2021-11-30" >}}
+  <span style="color: #FF7900; font-weight: 600;">Orange Innovation</span> • {{< jobduration start="2018-10-01" end="2021-11-30" >}}
 </p>
 
 
@@ -324,7 +324,7 @@ Je contribue aux activités de recherche sur Event‑Driven Network Automation (
 
 <!-- Dates -->
 <p style="color: #888; font-size: 0.9rem; margin-top: -0.5rem;">
-  Orange Innovation • {{< jobduration start="2018-03-01" end="2018-09-30" >}}
+  <span style="color: #FF7900; font-weight: 600;">Orange Innovation</span> • {{< jobduration start="2018-03-01" end="2018-09-30" >}}
 </p>
 
 

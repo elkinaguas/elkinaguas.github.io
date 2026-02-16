@@ -28,6 +28,20 @@
 
 {{ $startMonthName := T $startMonthKey }}
 {{ $endMonthName := T $endMonthKey }}
+{{ $duration := "" }}
+
+{{ if ge $end.Unix $start.Unix }}
+  {{ if gt $years 0 }}
+    {{ $duration = print $years " " (cond (eq $years 1) (T "year_singular") (T "year_plural")) }}
+    {{ if gt $months 0 }}
+      {{ $duration = print $duration " " (T "and") " " $months " " (cond (eq $months 1) (T "month_singular") (T "month_plural")) }}
+    {{ end }}
+  {{ else if gt $months 0 }}
+    {{ $duration = print $months " " (cond (eq $months 1) (T "month_singular") (T "month_plural")) }}
+  {{ else }}
+    {{ $duration = T "less_than_a_month" }}
+  {{ end }}
+{{ end }}
 
 <span style="color: #999; font-size: 0.9rem;">
   {{ $startMonthName }} {{ $start.Year }} –
@@ -37,31 +51,7 @@
     {{ $endMonthName }} {{ $end.Year }}
   {{ end }}
 
-  (
-  {{ if gt $years 0 }}
-    {{ $years }}
-    {{ if eq $years 1 }}
-      {{ T "year_singular" }}
-    {{ else }}
-      {{ T "year_plural" }}
-    {{ end }}
-    {{ if gt $months 0 }}
-      {{ T "and" }} {{ $months }}
-      {{ if eq $months 1 }}
-        {{ T "month_singular" }}
-      {{ else }}
-        {{ T "month_plural" }}
-      {{ end }}
-    {{ end }}
-  {{ else if gt $months 0 }}
-    {{ $months }}
-    {{ if eq $months 1 }}
-      {{ T "month_singular" }}
-    {{ else }}
-      {{ T "month_plural" }}
-    {{ end }}
-  {{ else }}
-    {{ T "less_than_a_month" }}
+  {{ if ne $duration "" }}
+    ({{ $duration }})
   {{ end }}
-  )
 </span>

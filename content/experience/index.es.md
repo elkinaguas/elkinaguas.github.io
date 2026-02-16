@@ -7,6 +7,53 @@ menu:
     weight: 5
 ---
 
+<!-- ################################# OVHCLOUD ################################# -->
+<!-- Titulo -->
+<h1 style="display: flex; align-items: center; margin-bottom: 1rem;">
+  <img src="/icons/ovh.svg" alt="OVHcloud" width="32" height="32" style="margin-right: 8px;">
+  Ingeniero SRE (Site Reliability Engineer)
+</h1>
+
+<!-- Fechas -->
+<p style="color: #888; font-size: 0.9rem; margin-top: -0.5rem;">
+  OVHcloud • {{< jobduration start="2026-02-23" end="actuel" >}}
+</p>
+
+<div style="display: flex; flex-wrap: wrap; gap: 2rem;">
+
+  <!-- Column 1 -->
+  <div style="flex: 1 1 300px;">
+    <!-- Programacion -->
+    <div style="margin-bottom: 0.5rem;">
+      <strong style="color: #444;">👨‍💻 Programación</strong>
+    </div>
+    <!-- Contenerizacion y Orquestacion -->
+    <div style="margin: 1rem 0 0.5rem 0;">
+      <strong style="color: #444;">📦 Contenerización y Orquestación</strong>
+    </div>
+    <!-- Observabilidad y Monitorizacion -->
+    <div style="margin: 1rem 0 0.5rem 0;">
+      <strong style="color: #444;">📊 Observabilidad y Monitorización</strong>
+    </div>
+  </div>
+
+  <!-- Column 2 -->
+  <div style="flex: 1 1 300px;">
+    <!-- Automatizacion e Infraestructura -->
+    <div style="margin-bottom: 0.5rem;">
+      <strong style="color: #444;">🤖 Automatización e Infraestructura</strong>
+    </div>
+    <!-- Sistemas Operativos -->
+    <div style="margin: 1rem 0 0.5rem 0;">
+      <strong style="color: #444;">💻 Sistemas Operativos</strong>
+    </div>
+    <!-- Redes y Seguridad -->
+    <div style="margin: 1rem 0 0.5rem 0;">
+      <strong style="color: #444;">🌐 Redes y Seguridad</strong>
+    </div>
+  </div>
+</div>
+
 <!-- ################################# ORANGE BUSINESS ################################# -->
 <!-- Titulo -->
 <h1 style="display: flex; align-items: center; margin-bottom: 1rem;">
@@ -16,7 +63,7 @@ menu:
 
 <!-- Fechas -->
 <p style="color: #888; font-size: 0.9rem; margin-top: -0.5rem;">
-  Orange Business • {{< jobduration start="2023-06-26" end="actuel" >}}
+  Orange Business • {{< jobduration start="2023-06-26" end="2026-02-12" >}}
 </p>
 
 <!-- Descripcion -->
